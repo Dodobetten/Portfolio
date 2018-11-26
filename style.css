@@ -1,0 +1,29 @@
+header {
+    font-family: 'Lobster Two', cursive;
+    font-family: 'Lobster', cursive;
+}
+
+body {
+    font-family: 'Lobster', cursive;
+    font-family: 'Lobster Two', cursive;
+    font-family: 'Ribeye Marrow', cursive;
+    font-family: 'Diplomata SC', cursive;
+    font-family: 'Galindo', cursive;
+}
+
+#bloc1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#bloc2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+li {
+    margin: 20px;
+}
